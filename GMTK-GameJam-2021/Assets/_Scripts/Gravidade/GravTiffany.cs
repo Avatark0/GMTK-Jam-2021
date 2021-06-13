@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Tiffany : Gravidade
+public class GravTiffany : _Gravidade
 {
     protected override Vector3 gravity{
         get{

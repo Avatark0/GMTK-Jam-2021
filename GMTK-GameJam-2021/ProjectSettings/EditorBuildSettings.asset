@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Scenes/Legacy/Jogo-Salmao.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/_Scenes/1-Manha.unity
+    guid: 19ef9b263cd7191478600c7caf7b3ed0
+  - enabled: 1
+    path: Assets/_Scenes/2-Tarde.unity
+    guid: 1cd2e93f2af34434d941236e62eb4b82
+  - enabled: 1
+    path: Assets/_Scenes/3-Noite.unity
+    guid: 26cabc5d48182d646a6f1d35234cd0da
+  - enabled: 1
+    path: Assets/_Scenes/4-Madru.unity
+    guid: 9383c52c3ca0b5f458103a7bf392660a
   m_configObjects: {}

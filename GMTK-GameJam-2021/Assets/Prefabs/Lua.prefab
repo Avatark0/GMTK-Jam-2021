@@ -7,7 +7,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4408395239504714685}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: df0e4c0f9458b9347b070820a7ae3ffc, type: 3}
   m_Name: 
@@ -19,6 +19,38 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 295381630282432218, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
+      propertyPath: m_Color.b
+      value: 0.36862746
+      objectReference: {fileID: 0}
+    - target: {fileID: 295381630282432218, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18039216
+      objectReference: {fileID: 0}
+    - target: {fileID: 295381630282432218, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273251115202628911, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
+      propertyPath: m_Mass
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273251115202628911, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273251115202628911, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
+      propertyPath: m_LinearDrag
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273251115202628911, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
+      propertyPath: m_AngularDrag
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273251115202628911, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5127157951455951642, guid: 82e164086925e244c994fe331c7c04c9, type: 3}
       propertyPath: m_Color.b
       value: 0.3679245

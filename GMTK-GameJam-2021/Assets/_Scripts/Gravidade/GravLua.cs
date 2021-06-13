@@ -1,10 +1,10 @@
 using UnityEngine;
 
-public class Sol : Gravidade
+public class GravLua : _Gravidade
 {
     protected override Vector3 gravity{
         get{
-            return new Vector3(0,-1,0);
+            return new Vector3(1,0,0);
         }
     }
 }
